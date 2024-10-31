@@ -20,7 +20,7 @@ class MainApp(QMainWindow):
         self.image_file_path = None
 
         # Use the ngrok URL generated
-        self.ngrok_url = "https://7f21-34-87-149-163.ngrok-free.app"  # Replace with the actual ngrok URL
+        self.ngrok_url = "https://9fcf-34-126-130-61.ngrok-free.app"  # Replace with the actual ngrok URL
 
         # Style the response text area
         self.ui.response_textEdit.setStyleSheet("""
